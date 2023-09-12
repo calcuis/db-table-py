@@ -12,7 +12,7 @@ This line imports the `sqlite3` module, which is the standard Python interface f
 Establishing a connection to the SQLite database:
 
 ```
-connection = sqlite3.connect("gta.db")
+connection = sqlite3.connect("data.db")
 ```
 This line establishes a connection to an SQLite database named "data.db" (assuming the file "data.db" exists in the current directory). If the database file does not exist, SQLite will create it.
 
