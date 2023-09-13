@@ -1,4 +1,4 @@
-## db-table-py
+## search existing table(s) in database (.db)
 
 The Python code provided connects to an SQLite database, retrieves a list of table names from that database, and then prints out the list of table names. Let's break down the code step by step:
 
